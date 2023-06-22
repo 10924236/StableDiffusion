@@ -4,7 +4,7 @@
 3. 安裝好後開啟localhost:7860
 4. 開始產圖
 
-![](.\outputs\extras-images\00000.png)
+![](https://github.com/10924236/StableDiffusion/blob/master/outputs/extras-images/00000.png)
 
 
 # 其中部分
