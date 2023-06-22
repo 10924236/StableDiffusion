@@ -4,6 +4,9 @@
 3. 安裝好後開啟localhost:7860
 4. 開始產圖
 
+![](.\outputs\extras-images\00000.png)
+
+
 # 其中部分
 1. 安裝stable diffusion
 2. 練習產生圖片
